@@ -39,3 +39,5 @@ FitZone is a modern, responsive single-page gym website built with React.js and 
    npm start
    ```
 
+   Note : Title and All the Headings and Paragraps are copied Internet also Image. 
+
