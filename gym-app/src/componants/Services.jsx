@@ -4,7 +4,7 @@ const services = [
     {
         title: "Strength Training",
         description: "Build muscle and increase strength with expert-guided workouts.",
-        img: "https://source.unsplash.com/400x300/?gym,weights",
+        img: "https://media.istockphoto.com/id/601902710/photo/closeup-of-weightlifter-clapping-hands-before-barbell-workout-a.jpg?s=612x612&w=0&k=20&c=0rknDe7xm1zefbQddglWR8xeKRrY4ue4Vhd737kpC2E=",
     },
     {
         title: "Cardio Fitness",
@@ -14,22 +14,22 @@ const services = [
     {
         title: "Yoga & Meditation",
         description: "Improve flexibility and mental well-being with our yoga sessions.",
-        img: "https://source.unsplash.com/400x300/?yoga,meditation",
+        img: "https://media.istockphoto.com/id/1483989816/photo/adult-arab-male-with-a-ponytail-meditating-in-a-yoga-class.jpg?s=612x612&w=0&k=20&c=FTkO8dit_ZWB_9mUk2bmkELm2mpC-NqH82nCmK1Wx6M=",
     },
     {
         title: "HIIT Workouts",
         description: "Maximize fat loss and build endurance with high-intensity interval training.",
-        img: "https://source.unsplash.com/400x300/?hiit,workout",
+        img: "https://hips.hearstapps.com/hmg-prod/images/athletes-doing-push-ups-with-dumbbells-on-floor-royalty-free-image-1638463573.jpg?crop=1xw:0.84375xh;center,top&resize=1200:*",
     },
     {
         title: "Personal Training",
         description: "Get one-on-one coaching tailored to your fitness goals.",
-        img: "https://source.unsplash.com/400x300/?personaltrainer,gym",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuP8aUcQY5y29h6O6jyFKNl01HeYdYePKWPQ&s",
     },
     {
         title: "Group Classes",
         description: "Stay motivated by joining our group fitness sessions with expert trainers.",
-        img: "https://source.unsplash.com/400x300/?groupfitness,exercise",
+        img: "https://media.istockphoto.com/id/1207041834/photo/group-of-young-happy-fit-people-doing-exercises-in-gym.jpg?s=612x612&w=0&k=20&c=3LkL97NzJct4YwSNc_X70FEX9uH-BkKBMY9Vgy1O5sg=",
     },
 ];
 
